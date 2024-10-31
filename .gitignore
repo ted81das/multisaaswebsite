@@ -1,0 +1,7 @@
+\assets
+\core\Modules\*
+!\core\Modules\User
+\vendor
+\resources\*
+!\resources\views
+!\core\Modules\PluginManage
